@@ -1,0 +1,2 @@
+angular-statemachine-spike
+==========================
